@@ -47,18 +47,18 @@ UMN, University of Minnesota, Associate Professor, website, webpage.">
 <P ALIGN="LEFT">
 <H3> Useful Links </H3>
 <A TARGET="_blank" HREF="http://www.isical.ac.in">Indian Statistical Institute (ISI)-Kolkata</A>,
-<A TARGET="_blank" HREF="https://isru.isical.ac.in/">ISRU-ISI-Kolkata</A>
+<A TARGET="_blank" HREF="https://isru.isical.ac.in/">ISRU-ISI-Kolkata</A> <BR>
 
 <A TARGET="_blank" HREF="https://www.boisestate.edu/math/">Math-Boise State</A>,
-<A TARGET="_blank" HREF="https://www.boisestate.edu/">Boise State University</A>
+<A TARGET="_blank" HREF="https://www.boisestate.edu/">Boise State University</A> <BR>
 
 <A TARGET="_blank" HREF="https://sph.unc.edu/bios/biostatistics/">Biostat-UNC Chapel Hill</A>, 
-<A TARGET="_blank" HREF="https://www.unc.edu/">The University of North Carolina at Chapel Hill</A>
+<A TARGET="_blank" HREF="https://www.unc.edu/">The University of North Carolina at Chapel Hill</A> <BR>
 
 <A TARGET="_blank" HREF="https://cla.umn.edu/statistics">Stat-UMN</A>, 
 <A TARGET="_blank" HREF="https://cse.umn.edu/math">Math-UMN</A>,
 <A TARGET="_blank" HREF="https://www.sph.umn.edu/academics/divisions/biostatistics//">Biostat-UMN</A>,
-<A TARGET="_blank" HREF="https://twin-cities.umn.edu/">University of Minnesota, Twin Cities</A>
+<A TARGET="_blank" HREF="https://twin-cities.umn.edu/">University of Minnesota, Twin Cities</A> <BR>
 
 <A TARGET="_blank" HREF="http://www.amstat.org/">ASA</A>,
 <A TARGET="_blank" HREF="https://imstat.org/">IMS</A>,
