@@ -74,7 +74,5 @@ reviewed or approved by Indian Statistical Institute." <BR><BR>
 <P ALIGN="RIGHT"> Last updated: 08 December, 2025 </P>
 
 <font>
-</BODY>
-
 
 </HTML>
