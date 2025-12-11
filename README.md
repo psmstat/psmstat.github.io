@@ -5,20 +5,12 @@
 
 <HEAD>
 
-<TITLE ALIGN="CENTER">
-Partha Sarathi Mukherjee -- HOMEPAGE
-</TITLE>
-
 <META NAME="DESCRIPTION" CONTENT="Homepage of Partha Sarathi Mukherjee.">
 <META NAME="KEYWORDS" CONTENT="Partha Sarathi Mukherjee, Statistics, ISI, ISRU,
 Indian Statistical Institute, Kolkata, Interdisciplinary Statistical Institute,
 Boise State University, UNC, Chapel Hill, The University of North Carolina at Chapel Hill,
 UMN, University of Minnesota, Associate Professor, website, webpage.">
 
-<! No underline in links>
-<STYLE type="text/css">
-a { text-decoration:none }
-</STYLE>
 
 </HEAD>
 
@@ -40,8 +32,6 @@ a { text-decoration:none }
    Webpage: <A HREF="http://www.isical.ac.in/~psm/">http://www.isical.ac.in/~psm/</A> 
 </P>
 
-<! DIV ALIGN="CENTER"> <IMG src="img2.jpg" alt=""/> </DIV>
-
 <H3>
 <A TARGET="_blank" HREF="brief_cv_partha.pdf"><H3><B>Brief CV</B></H3></A>
 <A TARGET="_blank" HREF="ed_tr.html"><H3><B>Education and Training</B></H3>
@@ -57,18 +47,18 @@ a { text-decoration:none }
 <P ALIGN="LEFT">
 <H3> Useful Links </H3>
 <A TARGET="_blank" HREF="http://www.isical.ac.in">Indian Statistical Institute (ISI)-Kolkata</A>,
-<A TARGET="_blank" HREF="https://isru.isical.ac.in/">ISRU-ISI-Kolkata</A> <BR>
+<A TARGET="_blank" HREF="https://isru.isical.ac.in/">ISRU-ISI-Kolkata</A>
 
 <A TARGET="_blank" HREF="https://www.boisestate.edu/math/">Math-Boise State</A>,
-<A TARGET="_blank" HREF="https://www.boisestate.edu/">Boise State University</A> <BR>
+<A TARGET="_blank" HREF="https://www.boisestate.edu/">Boise State University</A>
 
 <A TARGET="_blank" HREF="https://sph.unc.edu/bios/biostatistics/">Biostat-UNC Chapel Hill</A>, 
-<A TARGET="_blank" HREF="https://www.unc.edu/">The University of North Carolina at Chapel Hill</A> <BR>
+<A TARGET="_blank" HREF="https://www.unc.edu/">The University of North Carolina at Chapel Hill</A>
 
 <A TARGET="_blank" HREF="https://cla.umn.edu/statistics">Stat-UMN</A>, 
 <A TARGET="_blank" HREF="https://cse.umn.edu/math">Math-UMN</A>,
 <A TARGET="_blank" HREF="https://www.sph.umn.edu/academics/divisions/biostatistics//">Biostat-UMN</A>,
-<A TARGET="_blank" HREF="https://twin-cities.umn.edu/">University of Minnesota, Twin Cities</A> <BR>
+<A TARGET="_blank" HREF="https://twin-cities.umn.edu/">University of Minnesota, Twin Cities</A>
 
 <A TARGET="_blank" HREF="http://www.amstat.org/">ASA</A>,
 <A TARGET="_blank" HREF="https://imstat.org/">IMS</A>,
